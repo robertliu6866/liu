@@ -1,12 +1,12 @@
 <?php
-use Illuminate\Support\Facades\Route;
 use Spatie\YamlFrontMatter\YamlFrontMatter;
-use App\Http\controllers\PostController;
-use App\Http\controllers\RegisterController;
-use App\Http\controllers\SessionsController;
-use App\Http\controllers\PostCommentController;
-use App\Http\controllers\AdminPostController;
-use Symfony\Component\HttpFoundation\Response;
+use App\Http\Controllers\AdminPostController;
+use App\Http\Controllers\NewsletterController;
+use App\Http\Controllers\PostCommentsController;
+use App\Http\Controllers\PostController;
+use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\SessionsController;
+use Illuminate\Support\Facades\Route;
 
 
 //首頁
