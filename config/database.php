@@ -12,7 +12,9 @@ return [
     | Here you may specify which of the database connections below you wish
     | to use as your default connection for all database work. Of course
     | you may use many connections at once using the Database library.
-    |
+    |在這裡您可以指定您希望下面的哪些數據庫連接
+    |用作所有數據庫工作的默認連接。當然
+    |您可以使用數據庫庫一次使用多個連接。
     */
 
     'default' => env('DB_CONNECTION', 'mysql'),
