@@ -9,6 +9,7 @@ use Illuminate\Support\Facades\Gate;
 class PostController extends Controller
 //->latest() 從數據庫中獲取最新的數據集
 //簡而言之，它對獲取的數據進行排序，使用“created_at”列按時間順序排列數據。
+//測試
 {
     public function  index()
     
