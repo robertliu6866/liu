@@ -23,7 +23,7 @@ class AdminPostController extends Controller
        
 }
 
-//新增檔案
+//新增檔案測試
 public function store()
 {
 
