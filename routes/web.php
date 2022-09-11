@@ -9,7 +9,7 @@ use App\Http\Controllers\SessionsController;
 use Illuminate\Support\Facades\Route;
 
 
-//首頁
+//首頁測試
 Route::get ('/',[PostController::class, 'index']);
 
 Route::post ('robert/{robert:slug}/comments',[PostCommentController::class,'store']);
