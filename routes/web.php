@@ -22,7 +22,7 @@ Route::get('login',[SessionsController::class,'create'])->middleware('guest');
 Route::post('login',[SessionsController::class,'store'])->middleware('guest');
 Route::post('logout',[SessionsController::class,'destroy'])->middleware('auth');
 
-//admin 管理組件模組123
+//admin 管理組件模組123456
 Route::middleware('can:admin')->group(function () {
     Route::resource('admin/robert', AdminPostController::class)->except('show');
 });
