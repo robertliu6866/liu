@@ -24,7 +24,7 @@
             <div class="flex justify-between max-w-xs h-auto gap-6  overflow-auto  relative my-3 mx-auto ">
              
              
-              {{--主揪圖片名字-----}}
+              {{--------主揪圖片名字-----}}
             <div ><img class="rounded-full h-10 w-10 "  src="http://i.pravatar.cc/60?={{$robert2->author->id}}"  alt="">
               <div class="w-10 ml-1 text-[10px] ">
 
