@@ -11,7 +11,7 @@
     
           <a href=""> 
               {{-- 日期 --}}
-             <div  class="flex justify-center text-xs">4/10</div></a> 
+             <div  class="flex justify-center text-xs">12/12</div></a> 
                   {{--地點 --}}
                   <a href="/robert/{{$robert2->slug}}">
               <div  class="flex justify-center text-xs">{{$robert2->title}}</div> 
