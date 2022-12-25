@@ -39,7 +39,7 @@
               
             <div class="  w-100% my-0 text-[15px] ">
                {{--參加團員訊息 --}}
-               <div  class="flex justify-center text-[10px]   w-20 my-auto">6/7</div>
+               <div  class="flex justify-center text-[10px]   w-20 my-auto">12/7</div>
           
             <div class="flex -space-x-1 overflow-hidden">
              <img class="inline-block h-6 w-6 rounded-full ring-2 ring-white" src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
