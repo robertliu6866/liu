@@ -12,7 +12,7 @@
     <x-robert-grid :roberts="$roberts"  />
 
     @else
-    <p> 沒有活動 ！</p> 
+    <p> 喔喔！</p> 
         @endif
     </main>
 
